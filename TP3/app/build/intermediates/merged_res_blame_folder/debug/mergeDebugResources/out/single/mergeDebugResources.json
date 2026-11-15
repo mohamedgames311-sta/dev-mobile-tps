@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-debug-20:\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-main-22:\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-debug-20:\\layout_activity_conversion.xml.flat",
+        "source": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-main-22:\\layout\\activity_conversion.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-debug-20:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-main-22:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-debug-20:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-main-22:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-debug-20:\\drawable_ic_call.xml.flat",
+        "source": "C:\\Users\\PC MSI\\.gradle\\daemon\\8.7\\com.dsi3.isetkb.tp3.app-main-22:\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "com.dsi3.isetkb.tp3.app-debug-20:/layout_activity_result.xml.flat",
+        "source": "com.dsi3.isetkb.tp3.app-main-22:/layout/activity_result.xml"
+    }
+]

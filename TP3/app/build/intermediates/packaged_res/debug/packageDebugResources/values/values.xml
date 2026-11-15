@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="teal">#009688</color>
+    <string name="app_name">Convertisseur de devises</string>
+    <string name="appeler">Appeler</string>
+    <string name="convertir">Convertir</string>
+    <string name="description_appli">Application de conversion de devises</string>
+    <string name="dinar_euro">Dinar --> Euro</string>
+    <string name="euro_dinar">Euro --> Dinar</string>
+    <string name="hint_montant">Saisir le montant à convertir</string>
+    <string name="resultat">Resultat</string>
+    <string name="retour">Retour</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

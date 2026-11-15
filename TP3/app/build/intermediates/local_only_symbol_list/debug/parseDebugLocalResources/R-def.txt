@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color teal
+drawable bg_circle
+drawable ic_call
+drawable ic_refresh
+id btn_back
+id btn_convertir
+id e_entry
+id r_dinar_euro
+id r_euro_dinar
+id radio_group
+id t_resultat
+id t_valeur
+layout activity_conversion
+layout activity_result
+string app_name
+string appeler
+string convertir
+string description_appli
+string dinar_euro
+string euro_dinar
+string hint_montant
+string resultat
+string retour
+style AppTheme

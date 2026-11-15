@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Convertisseur de devises</string>
+    <string name="description_appli">Application de conversion de devises</string>
+    <string name="hint_montant">Saisir le montant à convertir</string>
+    <string name="euro_dinar">Euro --> Dinar</string>
+    <string name="dinar_euro">Dinar --> Euro</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultat">Resultat</string>
+    <string name="retour">Retour</string>
+    <string name="appeler">Appeler</string>
+</resources>
