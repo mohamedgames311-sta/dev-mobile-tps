@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="hint_saisie">Saisissez un texte</string>
+    <string name="bouton_afficher">Afficher</string>
+    <string name="clic_titre">ClicActivity</string>
+    <string name="bonjour">Bonjour !</string>
+</resources>

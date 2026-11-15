@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color teal
+id boutonAfficher
+id clicText
+id saisie
+layout activity_clic
+layout activity_helloworld
+string app_name
+string bonjour
+string bouton_afficher
+string clic_titre
+string hint_saisie
+style AppTheme
