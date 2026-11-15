@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.dsi3.isetkb.tp4auth.app-debug-20:/layout_activity_register.xml.flat",
+        "source": "com.dsi3.isetkb.tp4auth.app-main-22:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dsi3.isetkb.tp4auth.app-debug-20:/layout_activity_main.xml.flat",
+        "source": "com.dsi3.isetkb.tp4auth.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dsi3.isetkb.tp4auth.app-debug-20:/layout_activity_acceuil.xml.flat",
+        "source": "com.dsi3.isetkb.tp4auth.app-main-22:/layout/activity_acceuil.xml"
+    }
+]
